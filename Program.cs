@@ -1,18 +1,5 @@
-﻿using FlaUI.Core;
-using FlaUI.Core.AutomationElements;
-using FlaUI.Core.Conditions;
-using FlaUI.UIA2;
-using FlaUI.UIA3;
-using Microsoft.Data.Sqlite;
-using Microsoft.Extensions.Configuration;
-using SQLitePCL;
+﻿using Microsoft.Extensions.Configuration;
 using System.Diagnostics;
-
-using FlaUI.Core.AutomationElements.PatternElements;
-using FlaUI.Core.Definitions;
-using FlaUI.Core.Patterns;
-using FlaUI.Core.Input;
-using FlaUI.UIA3.Converters;
 
 namespace UBFAutomation
 {
