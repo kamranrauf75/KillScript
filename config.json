@@ -1,0 +1,12 @@
+{
+  "ApplicationSettings": {
+    "ChromeEnabled": true,
+    "FirefoxEnabled": false,
+    "IEEnabled": false,
+    "EdgeEnabled": false,
+    "OperaEnabled": false,
+    "BraveEnabled": false,
+    "SafariEnabled": false
+  }
+
+}
